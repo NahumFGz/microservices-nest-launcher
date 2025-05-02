@@ -1,0 +1,3 @@
+[submodule "microservices-nest-practice"]
+	path = microservices-nest-practice
+	url = git@github.com:NahumFGz/microservices-nest-practice.git
