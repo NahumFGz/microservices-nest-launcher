@@ -44,6 +44,6 @@ Si se trabaja en el repositorio que tiene los sub-módulos, **primero actualizar
 
 Si se hace al revés, se perderán las referencias de los sub-módulos en el repositorio principal y tendremos que resolver conflictos.
 
-## Tutorial de submodules
+## Tutorial de submodules -> Probar Launcher, Subir otros sub-modules, Trabajar basado en el launcher (99, 100, 101)
 
 https://www.udemy.com/course/nestjs-microservicios/learn/lecture/42654770#questions/23312761
